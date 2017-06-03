@@ -5,10 +5,10 @@
 ////////////////////////////////////////////////////////////////
 */
 	// database information...
-	$cfg['data']['host'] = "199.116.113.47";
-	$cfg['data']['user'] = "ut_bans";
-	$cfg['data']['pass'] = "EAZTOlKj7mVi1sMK";
-	$cfg['data']['datanase'] = "ut_bans";
+	$cfg['data']['host'] = "";
+	$cfg['data']['user'] = "";
+	$cfg['data']['pass'] = "";
+	$cfg['data']['datanase'] = "";
 	$cfg['data']['table'] = "banlist";
 	$cfg['data']['pconnect'] = false; // allow persisant connections? DEFAULT: FALSE.
 	$cfg['data']['limit'] = "0"; // Records per page... if zero (0) turns off pages..
