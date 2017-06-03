@@ -15,6 +15,7 @@
 	
 	
 	// debugging options...
+	$cfg['info']['version'] = "0.0.1";
 	$cfg['info']['debug'] = true; // debug - true=ON ; false=OFF
 	$cfg['info']['connection'] = true; // shows connection status - true=ON ; false=OFF - YOU'LL NEED TO KEEP THIS OFF UNLESS DEBUGGING.
 
