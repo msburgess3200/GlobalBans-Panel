@@ -2,5 +2,5 @@
 A web panel for the GlobalBans Rocket Plugin
 
 ChangeLog
-	* Added Version
+	* Added Version for update tracking
 	* Inital Upload
