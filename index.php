@@ -21,7 +21,8 @@
 
 	
 	// upcoming feature...
-	$cfg['steam']['api'] = "ut_bans"; //steam api here
+	//$cfg['steam']['api'] = "ut_bans"; //steam api here
+	// upcoming feature
 	
 	
 	
